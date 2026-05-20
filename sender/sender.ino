@@ -14,6 +14,7 @@ struct Packet
     uint16_t counter;
 };
 
+
 struct AckPacket
 {
     uint8_t node_id;
