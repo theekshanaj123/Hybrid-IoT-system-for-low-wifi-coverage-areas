@@ -14,3 +14,5 @@ It is designed to work in places where Wi-Fi coverage is weak. The NRF24 nodes c
 - Supports multiple sensors  
 
 ---
+##  Block Diagram
+<img width="1408" height="768" alt="Gemini_Generated_Image_ow0qxjow0qxjow0q" src="https://github.com/user-attachments/assets/d40bff55-baed-4874-8a36-7745d141116d" />
